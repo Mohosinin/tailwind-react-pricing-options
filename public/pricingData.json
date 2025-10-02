@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": "$24.99/month",
+    "description": "Access to gym facilities during staffed hours with essential equipment and amenities.",
+    "features": [
+      "Gym access during staffed hours",
+      "Cardio & weight equipment",
+      "Locker rooms",
+      "Free Wi-Fi",
+      "Access to water station",
+      "Towel service"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "price": "$49.99/month",
+    "popular":true,
+    "description": "24/7 gym access with group classes, app support, and additional perks.",
+    "features": [
+      "24/7 access",
+      "Cardio & strength equipment",
+      "Group exercise classes",
+      "App access",
+      "Personal locker",
+      "Access to sauna",
+      "Free parking",
+      "Nutrition tips newsletter"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "price": "$79.99/month",
+    "description": "Full access including unlimited classes, personal training, and exclusive member benefits.",
+    "features": [
+      "Unlimited group classes",
+      "Personal training session monthly",
+      "Sauna/Jacuzzi access",
+      "Guest passes",
+      "Includes all Standard Membership features",
+      "Priority booking for classes",
+      "Massage chair access",
+      "Exclusive member events",
+      "Nutrition consultation"
+    ]
+  }
+]
